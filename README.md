@@ -10,7 +10,7 @@ Also, we provide the process data and processing code for data preprocessing.
 
 ## Data Preocessing ##
     cd code
-    pre_s1.py # collecing positions of 180 (234 regions) in Manhatton (a certain district) in New York (Chicago).
+    pre_s1.py # collecing positions of 180 (234) regions in Manhatton (a certain district) in New York (Chicago).
     pre_s2.py # collecting traffic data
     pre_s3.py # preprocessing the traffic data on correspongding regions
     pre_s4.py # preprocessing the POI data and obtain POI-aware Region Graph
