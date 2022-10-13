@@ -1,8 +1,8 @@
 # Automated Spatial-Temporal Graph Contrastive Learning for Region Representation #
-This is the implementation of Adaptive Spatial-Temporal Graph Contrastive Learning for Region Representation (ST-GCL) in the following paper:
+This is the implementation of Adaptive Spatial-Temporal Graph Contrastive Learning for Region Representation (AutoSTG) in the following paper:
 
 ## Requirements ##
-Pytorch = 1.7.0 and Tensorflow = 1.5.3 (crime prediction task (ST-SHN))
+Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
 
 ## Data ##
 Moblity data, crime data, census block data, POI data, house price of Chicago ([https://data.cityofchicago.org/](https://data.cityofchicago.org/)) and New York([https://opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/)).
